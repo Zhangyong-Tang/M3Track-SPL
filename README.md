@@ -23,6 +23,6 @@ This work is accepted by IEEE Signal Processing Letter in 20250323.
 
 🔋The main file is lib/train/actor/vipt.py (update trigger), lib/models/ThreeMT/ostrack_meta_ptompt.py (inner update), and lib/train/trainers/ltr_trainer.py (backward, outter update)
 
-🔽 Please follow ViPT[https://github.com/jiawen-zhu/ViPT] to create your conda environment.
+🔽 Please follow ViPT[https://github.com/jiawen-zhu/ViPT] to create your workspace (conda environment and download the pretrained OSTrack).
 
 
