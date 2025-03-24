@@ -1,6 +1,6 @@
 # M3Track: Meta-Prompt for Multi-Modal Tracking
 
-This work is accepted by IEEE Signal Processing Letter in 20250323.
+This work is accepted by IEEE Signal Processing Letter in 20250323. 
 
 ![6f7e9ff5939908ed2da185f9f8f4fb9](https://github.com/user-attachments/assets/3c5360d3-88e0-4861-bf06-377a66b4a372)
 
@@ -20,6 +20,8 @@ This work is accepted by IEEE Signal Processing Letter in 20250323.
 
 ![image](https://github.com/user-attachments/assets/cae705e1-51c8-4c09-a3a7-ba70991360fd)
 
+
+🔋The main file is lib/train/actor/vipt.py (update trigger), lib/models/ThreeMT/ostrack_meta_ptompt.py (inner update), and lib/train/trainers/ltr_trainer.py (backward, outter update)
 
 🔽 Please follow ViPT[https://github.com/jiawen-zhu/ViPT] to create your conda environment.
 
